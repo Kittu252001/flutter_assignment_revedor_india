@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522676596076",
+    "project_id": "bmi-calculator-da1e2",
+    "storage_bucket": "bmi-calculator-da1e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522676596076:android:fac82085b3e16acd8ed749",
+        "android_client_info": {
+          "package_name": "com.example.flutter_assignment_revedor_india"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522676596076-56o2t4vv6gpmcnchgg9u48q1ied980up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc39XYOy_e196m_sX-OLwFfKeIDlxh3UU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522676596076-56o2t4vv6gpmcnchgg9u48q1ied980up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
